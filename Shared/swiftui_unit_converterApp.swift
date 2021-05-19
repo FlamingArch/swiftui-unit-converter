@@ -11,7 +11,7 @@ import SwiftUI
 struct swiftui_unit_converterApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SidebarPresenterView()
         }
     }
 }
