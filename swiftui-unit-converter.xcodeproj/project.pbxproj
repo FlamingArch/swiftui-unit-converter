@@ -21,6 +21,8 @@
 		34CF553B2655207700B0DCF7 /* VolumeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CF55392655207700B0DCF7 /* VolumeView.swift */; };
 		34CF553D2655208100B0DCF7 /* LengthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CF553C2655208100B0DCF7 /* LengthView.swift */; };
 		34CF553E2655208100B0DCF7 /* LengthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34CF553C2655208100B0DCF7 /* LengthView.swift */; };
+		34D0DF3326557AC600015212 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D0DF3226557AC600015212 /* TabView.swift */; };
+		34D0DF3426557AC600015212 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D0DF3226557AC600015212 /* TabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,7 @@
 		34CF55362655203500B0DCF7 /* TemperatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureView.swift; sourceTree = "<group>"; };
 		34CF55392655207700B0DCF7 /* VolumeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumeView.swift; sourceTree = "<group>"; };
 		34CF553C2655208100B0DCF7 /* LengthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthView.swift; sourceTree = "<group>"; };
+		34D0DF3226557AC600015212 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,7 @@
 				34CF55392655207700B0DCF7 /* VolumeView.swift */,
 				34CF553C2655208100B0DCF7 /* LengthView.swift */,
 				34CF5531265504FF00B0DCF7 /* TimeView.swift */,
+				34D0DF3226557AC600015212 /* TabView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -215,6 +219,7 @@
 				34CF55372655203500B0DCF7 /* TemperatureView.swift in Sources */,
 				34CF553D2655208100B0DCF7 /* LengthView.swift in Sources */,
 				34CF553A2655207700B0DCF7 /* VolumeView.swift in Sources */,
+				34D0DF3326557AC600015212 /* TabView.swift in Sources */,
 				34CF55232655043500B0DCF7 /* swiftui_unit_converterApp.swift in Sources */,
 				34CF5532265504FF00B0DCF7 /* TimeView.swift in Sources */,
 			);
@@ -228,6 +233,7 @@
 				34CF55382655203500B0DCF7 /* TemperatureView.swift in Sources */,
 				34CF553E2655208100B0DCF7 /* LengthView.swift in Sources */,
 				34CF553B2655207700B0DCF7 /* VolumeView.swift in Sources */,
+				34D0DF3426557AC600015212 /* TabView.swift in Sources */,
 				34CF55242655043500B0DCF7 /* swiftui_unit_converterApp.swift in Sources */,
 				34CF5533265504FF00B0DCF7 /* TimeView.swift in Sources */,
 			);

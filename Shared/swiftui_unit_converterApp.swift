@@ -11,7 +11,11 @@ import SwiftUI
 struct swiftui_unit_converterApp: App {
     var body: some Scene {
         WindowGroup {
-            SidebarPresenterView()
+            if UIDevice.current.userInterfaceIdiom == .phone {
+                TabbedView()
+            } else {
+                SidebarPresenterView()
+            }
         }
     }
 }
